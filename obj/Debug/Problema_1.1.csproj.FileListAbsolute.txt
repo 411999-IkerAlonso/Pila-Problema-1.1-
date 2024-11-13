@@ -1,0 +1,7 @@
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\SEGUNDO CUATRIMESTRE\PROGRAMACION II\UNIDAD 1\EJERCICIOS\Problema_1.1\obj\Debug\Problema_1.1.csproj.AssemblyReference.cache
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\SEGUNDO CUATRIMESTRE\PROGRAMACION II\UNIDAD 1\EJERCICIOS\Problema_1.1\obj\Debug\Problema_1.1.csproj.CoreCompileInputs.cache
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\SEGUNDO CUATRIMESTRE\PROGRAMACION II\UNIDAD 1\EJERCICIOS\Problema_1.1\bin\Debug\Problema_1.1.exe.config
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\SEGUNDO CUATRIMESTRE\PROGRAMACION II\UNIDAD 1\EJERCICIOS\Problema_1.1\bin\Debug\Problema_1.1.exe
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\SEGUNDO CUATRIMESTRE\PROGRAMACION II\UNIDAD 1\EJERCICIOS\Problema_1.1\bin\Debug\Problema_1.1.pdb
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\SEGUNDO CUATRIMESTRE\PROGRAMACION II\UNIDAD 1\EJERCICIOS\Problema_1.1\obj\Debug\Problema_1.1.exe
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\SEGUNDO CUATRIMESTRE\PROGRAMACION II\UNIDAD 1\EJERCICIOS\Problema_1.1\obj\Debug\Problema_1.1.pdb
